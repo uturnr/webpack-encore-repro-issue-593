@@ -1,2 +1,8 @@
-AAA: *
-Test: *
+AAA: # Add to all PRs
+  - '**'
+  - '.*'
+  - '.*/**'
+Test: # Add to all PRs
+  - '**'
+  - '.*'
+  - '.*/**'
